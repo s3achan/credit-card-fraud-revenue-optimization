@@ -9,8 +9,8 @@
 **End-to-end fraud detection system** built on the classic Credit Card Fraud dataset (284,807 transactions, ~0.17% fraudulent).  
 The project goes beyond standard accuracy metrics by implementing **cost-sensitive threshold optimization** to **maximize net revenue savings** — balancing fraud prevention against false-positive revenue friction.
 
-**Live Interactive Dashboard** (Streamlit):  
-[https://credit-card-fraud-revenue-optimization.streamlit.app/] (https://credit-card-fraud-revenue-optimization.streamlit.app/)
+**Live Interactive Dashboard** (Streamlit): https://credit-card-fraud-revenue-optimization.streamlit.app
+
 ## 🚀 Key Features
 
 - **Business-Driven Optimization**  
