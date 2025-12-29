@@ -1,0 +1,4 @@
+.*
+!.gitignore
+!.env.example
+# Add more exceptions as needed, e.g., !.github/
